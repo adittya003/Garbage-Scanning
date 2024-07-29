@@ -1,0 +1,12 @@
+names:
+- Garbage
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: trash-seeking
+  url: https://universe.roboflow.com/trash-seeker/trash-seeking/dataset/2
+  version: 2
+  workspace: trash-seeker
+test: /content/Trash-Seeking-2/test/images
+train: /content/Trash-Seeking-2/train/images
+val: /content/Trash-Seeking-2/valid/images

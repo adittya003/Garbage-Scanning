@@ -1,0 +1,17 @@
+names:
+- Biodegradable
+- Cardboard
+- Glass
+- Metal
+- Paper
+- Plastic
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: garbage-types
+  url: https://universe.roboflow.com/fariq-r/garbage-types/dataset/5
+  version: 5
+  workspace: fariq-r
+test: /content/Garbage-Types-5/test/images
+train: /content/Garbage-Types-5/train/images
+val: /content/Garbage-Types-5/valid/images
